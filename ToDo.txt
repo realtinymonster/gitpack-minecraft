@@ -1,0 +1,221 @@
+This is a list of textures that need to be completed to encompass the whole of minetest_game
+
+================================
+Required For Any Release:
+================================
+
+default_jungletree
+default_jungletree_top
+default_junglewood
+default_jungleleaves
+
+================================
+In default:
+================================
+Note: append 'default_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+book
+brick
+bronze_block
+bronze_ingot
+cactus_side
+cactus_top
+chest_front
+chest_side
+chest_top
+chest_lock
+clay_brick
+clay_lump
+cloud
+coal_block
+coal_lump
+copper_block
+copper_ingot
+copper_lump
+diamond
+dry_shrub
+fence
+furnace_bottom
+furnace_fire_bg
+furnace_fire_fg
+furnace_front
+furnace_front_active
+furnace_side
+furnace_top
+gold_block
+gold_ingot
+gold_lump
+iron_lump
+junglegrass
+junglesapling
+jungletree
+jungletree_top
+junglewood
+jungleleaves
+ladder
+mese_block
+mese_crystal
+mese_crystal_fragment
+mossy_cobble
+nc_back
+nc_front
+nc_rb
+nc_side
+paper
+papyrus
+rail
+rail_crossing
+rail_curved
+rail_tjunction
+scorched_stuff
+sign_wall
+snow
+snow_side
+steel_block
+steel_ingot
+tool_bronzeaxe/bronzepick/bronzeshovel/bronzesword/diamondaxe/diamondpick/diamondshovel/diamondsword/meseaxe/mesepick/meseshovel/mesesword/steelaxe/steelpick/steelshovel/steelsword/stoneaxe/stonepick/stoneshovel/stonesword/woodaxe/woodpick/woodshovel/woodsword
+torch
+torch_animated
+torch_on_ceiling
+torch_on_ceiling_animated
+torch_on_floor
+torch_on_floor_animated
+
+================================
+In bones:
+================================
+bones_bottom
+bones_top
+bones_side
+bones_front
+bones_rear
+
+================================
+In bucket:
+================================
+
+--bucket is completed!
+
+================================
+In doors:
+================================
+Note: append 'doors_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+brown
+gray
+steel
+steel_a
+steel_b
+wood
+wood_a
+wood_b
+
+================================
+In dye:
+================================
+Note: append 'dye_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+black
+blue
+brown
+cyan
+dark_green
+dark_grey
+green
+magenta
+orange
+pink
+red
+violet
+white
+yellow
+
+================================
+In farming:
+================================
+Note: append 'farming_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+bread
+cotton_1/2/3/4/5/6/7/8
+cotton_seed
+flour
+soil
+soil_wet
+soil_wet_side
+string
+tool_bronzehoe/steelhoe/stonehoe/woodhoe
+wheat_1/2/3/4/5/6/7/8
+wheat_seed
+
+================================
+In fire:
+================================
+
+fire_basic_flame
+fire_basic_flame_animated
+
+================================
+In flowers:
+================================
+Note: append 'flowers_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+dandelion_white
+dandelion_yellow
+geranium
+rose
+tulip
+viola
+
+================================
+In legacy:
+================================
+
+apple_iron
+cooked_rat
+dungeon_master
+fireball
+firefly
+oerkki1
+oerkki1_damaged
+rat
+
+================================
+In screwdriver:
+================================
+
+screwdriver
+tool_mode1/2/3/4
+
+================================
+In vessels:
+================================
+Note: append 'vessels_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+drinking_glass
+drinking_glass_inv
+glass_bottle
+glass_bottle_inv
+glass_fragments
+steel_bottle
+steel_bottle_inv
+
+================================
+In wool:
+================================
+Note: append 'wool_' to the front of all of these names except those marked with an * (For this group only! Not bones, bucket, or any others. Just this group)
+
+black
+blue
+brown
+cyan
+dark_green
+dark_grey
+green
+grey
+magenta
+orange
+pink
+red
+violet
+white
+yellow
